@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-epw&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-epw" /> </p>
 
-- 🔭 I’m currently working on **box office**
+- 🔭 I’m currently working on my **"box office"** project
 
 - 🌱 I’m currently learning **react js, node js**
 
